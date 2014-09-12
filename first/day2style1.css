@@ -1,0 +1,81 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+	max-width: 98%;
+}
+
+.top-boxes {
+	width: 100%;
+	height: 25%;
+	display: inline-flex;
+	justify-content: space-between;
+	margin: 1px;
+
+}
+.top-black {
+	width: 33%;
+	height: 100%;
+	background: black;
+}
+.top-red {
+	width: 33%;
+	height: 100%;
+	background: red;
+}
+
+.top-blue {
+	width: 33%;
+	height: 100%;
+	background: blue;
+}
+
+.bottom-middle {
+	width: 100%;
+	height: 25%;
+	display: inline-flex;
+}
+
+.bm-blue {
+	width: 75%;
+	height: 100%;
+	background: blue;
+}
+.bm-red {
+	width: 25%;
+	height: 100%;
+	background: red;
+}
+.bottom {
+	width: 100%;
+	height: 10%;
+	display: inline-flex;
+	margin-top: 30px;
+}
+
+.bottom-black {
+	width: 60%;
+	height: 100%;
+	background: black;
+}
+
+.bottom-blue1 {
+	width: 15%;
+	height: 100%;
+	background: blue;
+}
+
+.bottom-red {
+	width: 10%;
+	height: 100%;
+	background: red;
+}
+.bottom-blue2 {
+	width: 15%;
+	height: 100%;
+	background: blue;
+}
